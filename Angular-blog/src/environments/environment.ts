@@ -6,7 +6,7 @@ import {Environment} from './interace';
 
 export const environment: Environment = {
   production: false,
-  apikey: 'AIzaSyA2y1ViaFUaYgkMXxhvxlQ5sSSG6S_DZXM'
+  apiKey: 'AIzaSyA2y1ViaFUaYgkMXxhvxlQ5sSSG6S_DZXM'
 };
 
 /*

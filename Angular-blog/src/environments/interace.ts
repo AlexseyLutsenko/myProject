@@ -1,5 +1,5 @@
 export interface Environment {
-    apikey: string,
+    apiKey: string,
     production: boolean,
 }
 
